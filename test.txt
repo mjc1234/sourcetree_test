@@ -1,3 +1,8 @@
 Zzz
 testz
+<<<<<<< HEAD
 add new code
+=======
+test1
+Test2ß
+>>>>>>> 0fb0945cec716425fbb9ddc1da3355b4d20e865e
